@@ -1,0 +1,61 @@
+CS135501,Introduction to Programming (I),3,M7M8R5R6,DELTA 103,70 ,100,Hwann-Tzong Chen,Required
+CS135502,Introduction to Programming (I),3,M7M8R5R6,DELTA 107,70 ,104,Shun-Ren Yang,Required
+CS135600,Introduction to Programming (II),3,T5T6F5F6,DELTA 108,0,23,Che-Rung Lee,Required
+CS233601,Discrete Mathematics,3,M3M4W2,DELTA 107,90 ,160,Kai Hon Wing,Required
+CS233602,Discrete Mathematics,3,M3M4W2,DELTA 108,90 ,75,Kei Mak Wai,Required
+CS135701,Intro. to Computer Systems & Applications,2,R7R8R9,DELTA 103,60 ,84,Tzu-Wei Huang,Optional
+CS135702,Intro. to Computer Systems & Applications,2,W7W8W9,DELTA 103,60 ,74,Chun-Tien Chang,Optional
+CS210401,Hardware Design and Lab.,3,R7R8T7T8,"EECS 326,DELTA 105",75,74,Chun-Yi Lee,Required
+CS210402,Hardware Design and Lab.,3,R7R8T7T8,"DELTA 105,EECS 326",75,82,Chih-Tsun Huang,Required
+CS233401,Linear Algebra,3,M3M4W2,DELTA 103,90,94,Chaur-Chin Chen,Required
+CS233402,Linear Algebra,3,M3M4W2,DELTA 109,90,80,Ming-Jer Tsai,Required
+CS235101,Data Structures,3,T3T4R3WaWb,"DELTA 103,EECS 326",90,93,Chih-Ya Shen,Required
+CS235102,Data Structures,3,T3T4R3WaWb,"DELTA 104,EECS 326",90,81,Jung-Chun Kao,Required
+CS321201,Introduction to Computer Networks,3,M7M8R6,EECS 131,80,62,Hwa-Chun Lin,Optional
+CS321202,Introduction to Computer Networks,3,M7M8R6,DELTA 108,80,117,Nen-Fu Huang,Optional
+CS333401,Engineering Mathematics,3,W4F3F4,DELTA 103,90,60,Long-Wen Chang,Optional
+CS333402,Engineering Mathematics,3,W3W4R2,DELTA 107,90,6,Ren-Song Tsay,Optional
+CS423500,Introduction to Internet of Things,3,TaTbTc,DELTA 108,40,50,Nen-Fu Huang,Optional
+CS531900,Advanced Discrete Structure,3,T6T7R4,DELTA 102,20,18,Kai Hon Wing,Optional
+CS546000,Software Project Management,3,M5M6R5,DELTA 108,50,53,Ching-Yu Huang,Optional
+CS342301,Operating Systems,3,M3M4W2,DELTA 105,90,133,Jerry Chou,Required
+CS342302,Operating Systems,3,M3M4W2,DELTA 104,90,91,Pai-Hsiang Chou,Required
+CS410000,Computer Architecture,3,M5M6M7,DELTA 109,50,77,Ting-Ting Hwang,Required
+CS431101,Design and Analysis of Algorithms,3,W3W4F3,EECS 131,100,80,Biing-Feng Wang,Required
+CS431102,Design and Analysis of Algorithms,3,W3W4F3,DELTA 104,100,104,Jang-Ping Sheu,Required
+CS312000,Introduction of Integrated Circuit Design,3,M2R3R4,DELTA 108,80,94,Shih-Chieh Chang,Optional
+CS314000,Introduction to Analog Circuit Design,3,W7W8F6,DELTA 107,90,9,Chia-Tung Lee,Optional
+CS330500,Cryptography and Network Security,3,M7M8R6,DELTA 105,70,86,Hung-Min Sun,Optional
+CS333000,Scientific Computing,3,M3M4W2,DELTA 102,35,24,Cheng-Hsin Hsu,Optional
+CS337100,Formal Language,3,T7T8R7,DELTA 104,70,95,Hotsung-Yi,Optional
+CS343300,Competitive Programming Training,3,MaMbMc,DELTA 102,0,33,Che-Rung Lee,Optional
+CS410100,Introduction to Embedded Systems,3,R3T3T4,"DELTA 105,EECS 326",50,54,Chung-Ta King,Optional
+CS412500,Digital System Design,3,T5T6R5R6,DELTA 104,50,48,Chih-Tsun Huang,Optional
+CS452000,Introduction to Image Processing,3,M5M6R4,DELTA 103,40,41,Chiu-Ting Hsu,Optional
+CS460100,Introduction to Intelligent Computing,3,W3W4F3,EECS 132,80,60,Von-Wun Soo,Optional
+CS460200,Introduction to Machine Learning,3,T3T4R3,DELTA 109,80,63,Duan-Shin Lee,Optional
+CS513200,Deep Learning Hardware Accelerator Design,3,T1T2F1F2,EECS 128,40,31,Youn-Long Lin,Optional
+CS531600,Approximation Algorithms,3,M2W3W4,DELTA 102,30,31,Ming-Jer Tsai,Optional
+CS550300,Introduction to Game Programming,3,W7W8W9,EECS 127,60,75,Hung-Kuo Chu,Optional
+CS565600,Deep Learning,3,T7T8R7,DELTA 107,160,102,Shan-Hung Wu,Optional
+CS515100,Introduction to System-on-Chip and its Applications,3,W3F3F4,"DELTA 103,DELTA 106",60,17,Ching-Te Chiu,Optional
+CS518300,"SystemC,Behavior Coding and Modeling",3,TaTbTc,EECS 125,25,4,Su Alan Peisheng,Optional
+CS531300,Computing Biology,3,W3F6F7,DELTA 106,40,19,Lung Lu Chin,Optional
+CS538100,Applied Mathematical Logic,3,T3T4R3,DELTA 102,30,19,Chun-Yao Wang,Optional
+CS542200,Parallel Programming,3,M7M8R6,EECS 129,40,40,Jerry Chou,Optional
+CS573300,Big Data Technology and Applications,3,R6R7R8,DELTA 106,50,27,"Bor-Ren Jeng,Che-Rung Lee",Optional
+CS513100,Design Automation of Emerging Technologies,3,W3W4R6,DELTA 109,40,13,Hotsung-Yi,Optional
+CS517000,Digital Television,3,M6M7M8,EECS 128,70,24,Lon-Rong Hu,Optional
+CS524000,Wireless Network,3,M3M4F5,EECS 132,50,65,Jang-Ping Sheu,Optional
+CS524500,Broadband Mobile Communications,3,T7T8R7,DELTA 108,30,24,Jung-Chun Kao,Optional
+CS533200,Discrete-Event Simulation,3,R7R8R9,EECS 323,50,12,Hwa-Chun Lin,Optional
+CS537100,Theory of Computation,3,M5M6R7R8,EECS 125,20,10,Wei-Kuan Shih,Optional
+CS540500,Compilers for Embedded Systems,3,T7T8R7,EECS 129,30,9,Jenq-Kuen Lee,Optional
+CS542500,Real-Time System Designs,3,M7M8F7F8,EECS 125,20,9,Wei-Kuan Shih,Optional
+CS546600,Software Analysis and Design Methods,3,M7M8M9,EECS 132,50,61,Lung-Lung Liu,Optional
+CS565100,Machine Learning,3,F3F4Fn,MXIC 3F,20,115,"Jerry Chou,Da-Cheng Juan",Optional
+CS591300,Academic Research Writing,3,F6F7F8,EECS 129,30,35,Liang-Pei Chen,Optional
+CS631200,Parallel Algorithm Design,3,T3T4R3,EECS 131,30,15,Biing-Feng Wang,Optional
+CS655000,Computer Vision,3,M7M8R6,DELTA 102,40,30,Shang-Hong Lai,Optional
+CS742900,Special Topic on Embedded System Design,2,M1M2,EECS 125,0,5,Wei-Kuan Shih,Optional
+CS591000,Seminar,1,W5W6,EECS B1,160,156,"Cheng-Hsin Hsu,Tsung-Yi Ho",Required
