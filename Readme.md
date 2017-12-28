@@ -2,20 +2,20 @@
 
 
 ## Area
-property: { A_id, name }
+property: { A_id, name } 
 relation: 
 
 ## Course_Field
-property: { cf_id, name }
+property: { cf_id, name } 
 relation: (CF)-[belong:]->(A)
 
 ## Course 
-property: { course_id, title }
-relation: (C)-[mention:weight]->(CF)
-          (C)-[teach_by]->(T)
+property: { course_id, title } 
+relation: (C)-[mention:weight]->(CF) 
+          (C)-[teach_by]->(T) 
 
 ## Teacher 
-property: { teacher_id, tname }
-relation: (T)-[:expertise]->(CF)
+property: { teacher_id, tname } 
+relation: (T)-[:expertise]->(CF) 
 
 
