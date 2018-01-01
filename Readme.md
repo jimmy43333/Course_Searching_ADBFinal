@@ -18,4 +18,5 @@ relation: (C)-[mention:weight]->(CF)
 property: { teacher_id, tname } 
 relation: (T)-[:expertise]->(CF) 
 
-
+## Reference
+https://www.slideshare.net/leezhenyu/coscup-2016-workshop-neo4j

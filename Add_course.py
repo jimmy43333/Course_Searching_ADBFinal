@@ -29,7 +29,7 @@ for item in course :
 		fnode = graph.find_one('Course_Field', property_key='cf_id', property_value=cut[0])
 		if fnode is None:
 			fnode = Node('Course_Field',cf_id=cut[0])
-		rel = Relationship(cnode,"mention",fnode,weight=cut[1])
+		rel = Relationship(cnode,"mention",fnode,weight=int(cut[1]))
 		ADB.merge(fnode,"Course_Field","cf_id")
 		ADB.merge(rel)
 ADB.commit()

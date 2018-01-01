@@ -10,7 +10,8 @@ def get_list_from_cursor(input):
 p = input("GDB password:")
 graph = Graph(password=p)
 
+select_course = "CS321201"
+statement = "MATCH (s)-[rs:mention]->(m)<-[rg:mention]-(g) WHERE s.course_id=\""+ select_course +"\" AND rg.weight > rs.weight RETURN m.name,g.course_id,rg.weight"
 
-teacher = "Von-Wun Soo"
-result = graph.run("MATCH (s)-[:expertise]->(m)<-[:expertise]-(g) WHERE s.tname=\""+ teacher +"\" RETURN s.tname,m.name,g.teacher_id")
+result = graph.run(statement)
 output = get_list_from_cursor(result)
