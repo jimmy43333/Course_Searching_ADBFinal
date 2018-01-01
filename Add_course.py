@@ -5,13 +5,13 @@ from py2neo import Graph, Node, Relationship
 p = input("GDB password:")
 graph = Graph(password=p)
 
-with open('./data/course_CF_Graph.csv') as csvfile:
+with open('./data/course_CF_Graph02.csv') as csvfile:
     readCSV = csv.reader(csvfile,delimiter=',')
     course = []
     for row in readCSV:
         course.append(row)
 
-with open('./data/course_T_Graph.csv') as csvfile:
+with open('./data/course_T_Graph02.csv') as csvfile:
     readCSV = csv.reader(csvfile,delimiter=',')
     c_t = []
     for row in readCSV:
